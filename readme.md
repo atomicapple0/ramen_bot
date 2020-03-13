@@ -1,29 +1,6 @@
-https://tartanhacks2020.devpost.com/
+![ramen-bot](https://github.com/atomicapple0/ramen_bot/blob/master/86295478_514004316165920_3055537569434435584_n.jpg)
 
-Inspiration:
+https://www.youtube.com/watch?v=7We7kzvptaM
 
-The 2x spicy shin ramen is sooooo delightful. rub a dub dub thanks for the grub. Awe inspiring.
-
-What it does:
-
-Have you ever eaten food? Well this machine is the perfect device for YOU! Our project elevates instant ramen to a new plane of excellence.
-
-How I built it:
-
-Very carefully
-
-Challenges I ran into:
-
-Food poisoning, underpowered rice cooker
-
-Accomplishments that I'm proud of:
-
-it works
-
-What I learned:
-
-SCRUM prototyping
-
-What's next for its the bomb:
-
-machine learning, internet connectivety, blockchain, and ipo announcement
+An IoT ramen machine for CMU TartanHacks 2020
+Awarded "Spiciest Meme" award
